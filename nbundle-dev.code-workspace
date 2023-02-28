@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "NodeJS",
+			"path": "../../../Workspaces/NodeJS"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#504746",
+			"activityBar.foreground": "#F1FAEE",
+			"activityBar.inactiveForeground": "#F1FAEE77",
+			"activityBarBadge.background": "#bf0060",
+			"activityBarBadge.foreground": "#e7e7e7"
+		},
+		"deepscan.enable": true
+	}
+}

@@ -1,0 +1,3 @@
+[submodule "create-notion-app"]
+	path = create-notion-app
+	url = https://github.com/nativeit-dev/create-notion-app
